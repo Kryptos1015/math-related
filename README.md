@@ -5,4 +5,4 @@ A repo for all math related scripts.
 
 **Steady_state:** graphed long term probabilities for transition matrices
 
-**Tp1:** mom's chem/physics work
+**Tp1:** For mom
